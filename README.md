@@ -4,7 +4,7 @@ I built this project to get a better visual understanding of how the A* pathfind
 
 Instead of just outputting coordinates to a console, this is an interactive web tool where you can draw custom obstacles on a grid, and it will animate the algorithm's search process frame-by-frame to find the shortest path. 
 
-![A* Visualization Demo]
+A* Visualization Demo
 
 
 <img width="615" height="620" alt="Demo" src="https://github.com/user-attachments/assets/8776235a-06f8-4fc9-b140-880ba03d6e4f" />

@@ -5,7 +5,11 @@ I built this project to get a better visual understanding of how the A* pathfind
 Instead of just outputting coordinates to a console, this is an interactive web tool where you can draw custom obstacles on a grid, and it will animate the algorithm's search process frame-by-frame to find the shortest path. 
 
 ![A* Visualization Demo]
-![Demo](https://github.com/user-attachments/assets/1ef28a72-c973-4821-b446-ec9d861b37b6)
+
+
+<img width="615" height="620" alt="Demo" src="https://github.com/user-attachments/assets/8776235a-06f8-4fc9-b140-880ba03d6e4f" />
+
+
 
 ## What it does
 * **Draw Obstacles:** Click and drag on the grid to build a maze.
